@@ -1,0 +1,19 @@
+#image{
+    width: 200px;
+    height: 200px;
+    border: 1px solid lightgray;
+    background-size: cover;
+}
+#pgb-container{
+    width: 80vw;
+    height: 20px;
+    background-color: lightgray;
+    margin: 20px 0;
+    border-radius: 10px;
+    overflow: hidden;
+}
+#pgb{
+    height: 100%;
+    width: 0%;
+    background-color: dodgerblue;
+}
